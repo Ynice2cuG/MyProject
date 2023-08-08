@@ -9,686 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11a9294c-16c4-4a03-8154-3bfbef4316df" name="Changes" comment="货运管理系统。">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-common/src/main/java/com/yg/common/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-common/target/classes/com/yg/common/Constant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-common/target/logistics-common.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/java/com/yg/mapper/BasicDataMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/java/com/yg/mapper/CustomerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/java/com/yg/mapper/MenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/java/com/yg/mapper/OrderDetailMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/java/com/yg/mapper/OrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/java/com/yg/mapper/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/java/com/yg/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/java/com/yg/mapper/UserRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/resources/mapper/BasicDataMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/resources/mapper/CustomerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/resources/mapper/OrderDetailMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/src/main/resources/mapper/UserRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/classpath.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/com/yg/mapper/BasicDataMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/com/yg/mapper/CustomerMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/com/yg/mapper/MenuMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/com/yg/mapper/OrderDetailMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/com/yg/mapper/OrderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/com/yg/mapper/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/com/yg/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/com/yg/mapper/UserRoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/mapper/BasicDataMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/mapper/CustomerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/mapper/OrderDetailMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/mapper/OrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/classes/mapper/UserRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/logistics-manager-dao.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/dto/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/dto/CustomerDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/dto/OrderDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/BasicData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/BasicDataExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/CustomerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/MenuExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/OrderDetailExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/OrderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/RoleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/UserExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/UserRoleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/src/main/java/com/yg/pojo/UserRoleKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/classpath.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/dto/BasePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/dto/CustomerDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/dto/OrderDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/dto/UserDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/BasicData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/BasicDataExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/BasicDataExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/BasicDataExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/BasicDataExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/CustomerExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/CustomerExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/CustomerExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/CustomerExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/MenuExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/MenuExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/MenuExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/MenuExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderDetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderDetailExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderDetailExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderDetailExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderDetailExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/OrderExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/RoleExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/RoleExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/RoleExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/RoleExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserRoleExample$Criteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserRoleExample$Criterion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserRoleExample$GeneratedCriteria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserRoleExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/classes/com/yg/pojo/UserRoleKey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/logistics-manager-pojo.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/IBasicService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/ICustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/IOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/IRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/impl/BasicDataServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/impl/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/impl/RoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/src/main/java/com/yg/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/classpath.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/IBasicService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/ICustomerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/IOrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/IRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/impl/BasicDataServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/impl/CustomerServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/classes/com/yg/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/logistics-manager-service.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/java/com/yg/controller/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/java/com/yg/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/java/com/yg/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/java/com/yg/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/java/com/yg/controller/PageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/java/com/yg/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/java/com/yg/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/java/com/yg/realm/MyRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources/mybatis/MyBatis-Config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources/properties/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources/spring/applicationContext-base.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources/spring/applicationContext-shiro.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/PageBar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/basic/basic.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/basic/updateBasic.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/customer/customer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/customer/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/customer/updateCustomer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/left.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/order/addOrder.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/role/role.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/role/updateRole.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/top.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/user/updateUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/jsp/user/user.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/css/select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/kindeditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_03.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_04.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_05.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_06.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_07.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_08.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_09.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/emoticons/etc_36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/flash.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/media.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/plainpaste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/remote_image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/plugins/wordpaste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/default.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/div.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/dl.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/editor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/ol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/p.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/tinymce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/tinymce.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/editor/skins/ul.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/btnbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/btnbg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/btnbg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/buttonbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/c01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/c02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/c03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/cbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/clist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/close1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/d01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/d02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/d03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/d04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/d05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/d06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/d07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/diskbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/dp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/f01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/f02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/f03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/f04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/f05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/f06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/help.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/i09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/iadd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ibtnbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ico01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ico02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ico03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ico04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ico05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ico06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/icon01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/icon02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/icon03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/icon04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/icon05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/icon06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/img15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/inputbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/itabbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/itabbg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/leftico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/leftico01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/leftico02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/leftico03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/leftico04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/leftline.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/leftmenubg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/lefttop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/libg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/line.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/line1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/list.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/list1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/list2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/loginbg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/loginbg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/loginbg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/logininfo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/loginlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/loginpassword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/loginsj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/loginuser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/msg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/navbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/next.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/pre.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/px.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/righttop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/rlist.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/sj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/t01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/t02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/t03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/t04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/t05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/tbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/tcbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/th.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ticon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/toolbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/topbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/topleft.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/topright.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ub1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/uew_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/uew_icon_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/ulist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/images/userbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/PIE.htc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/cloud.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/format+zh_CN,default,corechart.I.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/jquery.ba-resize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/jquery.gvChart-1.0.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/jquery.idTabs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/jsapi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/js/select-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/src/jquery.gvChart-1.0.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/src/main/webapp/unAuthor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/com/yg/controller/BasicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/com/yg/controller/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/com/yg/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/com/yg/controller/OrderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/com/yg/controller/PageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/com/yg/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/com/yg/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/com/yg/realm/MyRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/mybatis/MyBatis-Config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/properties/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/spring/applicationContext-base.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/spring/applicationContext-shiro.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/spring/applicationContext-trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/classes/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/404.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/PageBar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/com/yg/controller/BasicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/com/yg/controller/CustomerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/com/yg/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/com/yg/controller/OrderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/com/yg/controller/PageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/com/yg/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/com/yg/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/com/yg/realm/MyRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/mybatis/MyBatis-Config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/properties/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/spring/applicationContext-base.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/spring/applicationContext-shiro.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/spring/applicationContext-trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/classes/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/basic/basic.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/basic/updateBasic.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/customer/customer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/customer/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/customer/updateCustomer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/left.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/order/addOrder.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/role/role.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/role/updateRole.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/top.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/user/updateUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/jsp/user/user.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/commons-lang3-3.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/commons-net-3.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/druid-1.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/ehcache-core-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/jackson-annotations-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/jackson-core-2.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/jackson-databind-2.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/joda-time-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/jsqlparser-0.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/logistics-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/logistics-manager-dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/logistics-manager-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/logistics-manager-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/mybatis-3.2.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/mybatis-paginator-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/pagehelper-4.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/protobuf-java-2.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/shiro-core-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/shiro-ehcache-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/shiro-spring-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/shiro-web-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/slf4j-api-1.6.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-aop-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-aspects-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-beans-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-context-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-context-support-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-core-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-expression-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-jdbc-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-jms-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-messaging-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-tx-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-web-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/lib/spring-webmvc-4.3.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/css/select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/kindeditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_03.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_04.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_05.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_06.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_07.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_08.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_09.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/emoticons/etc_36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/flash.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/media.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/plainpaste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/remote_image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/plugins/wordpaste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/default.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/div.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/dl.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/editor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/ol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/p.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/tinymce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/tinymce.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/editor/skins/ul.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/btnbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/btnbg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/btnbg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/buttonbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/c01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/c02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/c03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/cbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/clist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/close1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/d01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/d02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/d03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/d04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/d05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/d06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/d07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/diskbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/dp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/f01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/f02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/f03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/f04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/f05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/f06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/help.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/i09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/iadd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ibtnbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ico01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ico02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ico03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ico04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ico05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ico06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/icon01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/icon02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/icon03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/icon04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/icon05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/icon06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/img15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/inputbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/itabbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/itabbg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/leftico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/leftico01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/leftico02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/leftico03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/leftico04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/leftline.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/leftmenubg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/lefttop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/libg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/line.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/line1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/list.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/list1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/list2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/loginbg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/loginbg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/loginbg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/logininfo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/loginlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/loginpassword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/loginsj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/loginuser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/msg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/navbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/next.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/pre.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/px.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/righttop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/rlist.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/sj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/t01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/t02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/t03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/t04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/t05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/tbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/tcbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/th.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ticon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/toolbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/topbg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/topleft.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/topright.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ub1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/uew_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/uew_icon_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/ulist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/images/userbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/PIE.htc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/cloud.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/format+zh_CN,default,corechart.I.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/jquery.ba-resize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/jquery.gvChart-1.0.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/jquery.idTabs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/jsapi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/js/select-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/src/jquery.gvChart-1.0.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/logistics-manager-web/unAuthor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/tomcat/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/tomcat/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/logistics-manager-web/target/tomcat/logs/access_log.2023-05-29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistics-manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="11a9294c-16c4-4a03-8154-3bfbef4316df" name="Changes" comment="货运管理系统的首次提交。。。。">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -707,6 +29,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ad43ed7d-e95f-452f-8c90-d05e806f4e6d" />
+        <option name="url" value="https://github.com/Ynice2cuG/MyProject.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -737,26 +72,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/idea/project/logistics-parent&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;ff6c3cc3e9b3fccf0978e609dba581fb&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/idea/project/logistics-parent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "ff6c3cc3e9b3fccf0978e609dba581fb",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\idea\project\logistics-parent\logistics-manager\logistics-manager-web\src\main\webapp\WEB-INF\jsp\customer" />
@@ -927,16 +262,38 @@
       <workItem from="1691399009899" duration="69000" />
       <workItem from="1691460947404" duration="1972000" />
       <workItem from="1691501597013" duration="1298000" />
-      <workItem from="1691503048056" duration="795000" />
+      <workItem from="1691503048056" duration="1807000" />
     </task>
+    <task id="LOCAL-00001" summary="货运管理系统的首次提交。。。。">
+      <created>1691506662928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691506662928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="货运管理系统。" />
-    <option name="LAST_COMMIT_MESSAGE" value="货运管理系统。" />
+    <MESSAGE value="货运管理系统的首次提交。。。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="货运管理系统的首次提交。。。。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
