@@ -1,0 +1,7 @@
+com\yg\mapper\RoleMapper.class
+com\yg\mapper\CustomerMapper.class
+com\yg\mapper\BasicDataMapper.class
+com\yg\mapper\OrderDetailMapper.class
+com\yg\mapper\OrderMapper.class
+com\yg\mapper\MenuMapper.class
+com\yg\mapper\UserMapper.class
