@@ -30,11 +30,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -78,7 +78,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/idea/project/logistics-parent",
+    "last_opened_file_path": "E:/idea/project/TestSpringCloud",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -262,7 +262,8 @@
       <workItem from="1691399009899" duration="69000" />
       <workItem from="1691460947404" duration="1972000" />
       <workItem from="1691501597013" duration="1298000" />
-      <workItem from="1691503048056" duration="1807000" />
+      <workItem from="1691503048056" duration="2930000" />
+      <workItem from="1691549578509" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="货运管理系统的首次提交。。。。">
       <created>1691506662928</created>
@@ -271,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691506662928</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="货运管理系统的首次提交。。。。">
+      <created>1691507721586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691507721586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
